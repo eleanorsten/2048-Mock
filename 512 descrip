@@ -1,0 +1,7 @@
+Name: 512 Project
+Author: Eleanor Stenberg, varying UOregon resources
+Date: 2025-01-28
+
+This project is a recreated version of the popular 2048 game. Using user interface to allow users to move and merge tiles, the game is a board of tiles containing individual values. Tiles of the same value can be moved to merge together. When the user moves tiles, a new tile will pop up randomly on the board.
+
+Part of the provided code/ text files were provided by Professor Michal Young at the University of Oregon as a part of the CS 211 course work.
